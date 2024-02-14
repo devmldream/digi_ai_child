@@ -1,0 +1,11 @@
+pycocotools
+pytorch_lightning
+opencv-python
+matplotlib
+tensorboardX
+tensorboard
+thop
+terminaltables
+numpy
+tqdm
+pyyaml
